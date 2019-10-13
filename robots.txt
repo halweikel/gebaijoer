@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ongangota.thursdayfun.club/sitemap.xml
